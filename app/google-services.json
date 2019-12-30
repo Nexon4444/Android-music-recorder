@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67732589390",
+    "firebase_url": "https://androidmusicrecorder.firebaseio.com",
+    "project_id": "androidmusicrecorder",
+    "storage_bucket": "androidmusicrecorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67732589390:android:65c06669d9b6687d922c1f",
+        "android_client_info": {
+          "package_name": "com.example.androidmusicrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67732589390-2ht4ste3vm392g7tdied2l08pksvhue9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD45vcYRemyCmn5vDn5LrRAUXNck1VDNTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67732589390-2ht4ste3vm392g7tdied2l08pksvhue9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
